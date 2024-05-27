@@ -2,6 +2,7 @@
   <h1 align="center">
     Hola, soy Kevin Rivera 👋
   </h1>
+  <img src="assets/img1.jpg"></img>
 </div>
 
 
